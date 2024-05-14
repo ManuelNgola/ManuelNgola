@@ -8,7 +8,7 @@ impressionam visualmente, mas também proporcionam uma excelente usabilidade.
 - 🌱 Estou aprendendo constantemente e sempre aberto a novas tecnologias e ferramentas para melhorar minha stack de desenvolvimento.
 - 👯 Estou procurando colaborar em projetos de código aberto relacionados ao Front-End para contribuir com a comunidade e expandir meu conhecimento.
 - 💬 Estou disponível para ajudar com dúvidas sobre desenvolvimento Front-End e também para discutir ideias e colaborações.
-- 📫 Você pode me contatar pelo meu [e-mail](seuemail@example.com) ou através das redes sociais listadas abaixo.
+- 📫 Você pode me contatar pelo meu [e-mail](alluciinantengola@gmail.com) ou  [e-mail](misterdevemah@gmail.com) e através das redes sociais listadas abaixo.
 
 ## Habilidades
 - HTML5
