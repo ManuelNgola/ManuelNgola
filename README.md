@@ -1,4 +1,4 @@
-# Olá, eu souManuel Ngola
+# Olá, eu sou Manuel Ngola
 
 ## Sobre mim
 Sou um estudante entusiasta de Engenharia Informática com um forte interesse em desenvolvimento Front-End. Estou apaixonado por criar experiências web incríveis e funcionais que não apenas 
