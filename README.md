@@ -30,7 +30,7 @@ Aqui estão alguns projetos nos quais tenho trabalhado recentemente:
 4. **Relogio digital** -  usando HTML, CSS e JavaScript. [Relogio digital](https://github.com/ManuelNgola/DigitalClock)
 
 ## Contato
-- [LinkedIn]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/manuel-bernardo-soares-ngola-a569a3309/)
+- [LinkedIn]([https://www.linkedin.com/in/seulinkedin]((https://www.linkedin.com/in/manuel-b-s-ngola-a569a3309/))
 
 Sinta-se à vontade para explorar meus repositórios e entre em contato se você tiver alguma pergunta ou sugestão. Obrigado por visitar meu perfil! 😊🚀
 
