@@ -9,7 +9,7 @@ impressionam visualmente, mas também proporcionam uma excelente usabilidade.
 - 👯 Estou procurando colaborar em projetos de código aberto relacionados ao Front-End para contribuir com a comunidade e expandir meu conhecimento.
 - 💬 Estou disponível para ajudar com dúvidas sobre desenvolvimento Front-End e também para discutir ideias e colaborações.
 - sempre disposto a aprender.
-- 📫 Você pode me contatar pelo meu [e-mail](alluciinantengola@gmail.com) ou  [e-mail](misterdevemah@gmail.com) e através das redes sociais listadas abaixo.
+- 📫 Você pode me contatar pelo meu [e-mail](alluciinantengola@gmail.com) ou  [e-mail](manuelbsngola@gmail.com) e através das redes sociais listadas abaixo.
 
 ## Habilidades
 - HTML5
@@ -30,7 +30,7 @@ Aqui estão alguns projetos nos quais tenho trabalhado recentemente:
 4. **Relogio digital** -  usando HTML, CSS e JavaScript. [Relogio digital](https://github.com/ManuelNgola/DigitalClock)
 
 ## Contato
-- [LinkedIn]([https://www.linkedin.com/in/seulinkedin]((https://www.linkedin.com/in/manuel-b-s-ngola-a569a3309/))
+- [LinkedIn]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/manuel-b-s-ngola-a569a3309/)
 
 Sinta-se à vontade para explorar meus repositórios e entre em contato se você tiver alguma pergunta ou sugestão. Obrigado por visitar meu perfil! 😊🚀
 
